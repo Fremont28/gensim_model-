@@ -5,4 +5,8 @@ A word embedding algorithm was used to compare text on the World CNN and World B
 
 In addition, we built two basic artificial neural networks (binary classification) classifying whether a customer would return for another loan or not based on their demographics, job, and relationship history. 
 
+Here is a quick analysis showing the cosine simialrity between CNN anf FOX news. 
+
+https://beyondtheaverage.wordpress.com/2018/06/12/tv-networks-and-cosine-similarity/
+
 
